@@ -1,0 +1,1 @@
+-std=c11 aes.c crypt.c crypt_cipher_descriptor.c  crypt_cipher_is_valid.c crypt_argchk.c omac_init.c omac_memory.c omac_done.c omac_process.c crypt_register_cipher.c crypt_find_cipher.c error_to_string.c zeromem.c compare_testvector.c  

@@ -1,0 +1,1 @@
+-std=c11 aes.c crypt.c crypt_cipher_descriptor.c  crypt_cipher_is_valid.c crypt_argchk.c pmac_init.c pmac_memory.c pmac_done.c pmac_process.c crypt_register_cipher.c crypt_find_cipher.c error_to_string.c zeromem.c compare_testvector.c  pmac_shift_xor.c pmac_ntz.c
