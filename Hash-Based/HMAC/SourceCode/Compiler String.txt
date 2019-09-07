@@ -1,0 +1,1 @@
+-std=c11 sha1.c  crypt.c crypt_hash_descriptor.c  crypt_hash_is_valid.c crypt_argchk.c hmac_init.c hmac_memory.c hmac_done.c hmac_process.c crypt_register_hash.c crypt_find_hash.c error_to_string.c zeromem.c compare_testvector.c hash_memory.c

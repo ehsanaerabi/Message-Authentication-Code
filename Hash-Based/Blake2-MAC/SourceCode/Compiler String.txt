@@ -1,0 +1,1 @@
+-std=c11 sha1.c  crypt.c crypt_hash_descriptor.c  crypt_hash_is_valid.c crypt_argchk.c blake2bmac.c blake2bmac_memory.c crypt_register_hash.c crypt_find_hash.c error_to_string.c zeromem.c compare_testvector.c blake2b.c
